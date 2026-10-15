@@ -1,0 +1,19 @@
+Noto Sans Arabic font license
+
+Copyright 2010, 2012-2020 Google Inc.
+Copyright 2015-2020 Google LLC.
+
+SIL OPEN FONT LICENSE Version 1.1
+
+Files:
+debian/*
+Copyright:
+ 2013-2020, Jonas Smedegaard <dr@jones.dk>
+ 2020, Purism, SPC
+ 2013, Vasudev Kamath <kamathvasudev@gmail.com>
+License-Grant:
+This program is free software;
+you can redistribute it and/or modify it
+under the terms of the GNU General Public License
+as published by the Free Software Foundation;
+either version 3, or (at your option) any later version.

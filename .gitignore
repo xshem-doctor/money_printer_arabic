@@ -1,0 +1,28 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Python environments and caches
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated reels and resumable render data
+render/work_*/
+render/.api_cache/
+reels/*.mp4
+reels/*.credits.json
+*.log
+
+# User-supplied music is kept local unless deliberately added
+render/assets/music/*
+!render/assets/music/README.md
+
+# Local tooling and OS files
+.agents/
+.aws/
+.codex/
+.DS_Store
